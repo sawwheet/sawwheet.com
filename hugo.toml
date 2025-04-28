@@ -1,0 +1,17 @@
+baseURL = 'https://sawwheet.com/'
+languageCode = 'en-us'
+title = 'Sawwheet'
+
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.tags]]
+    name = 'Tags'
+    pageRef = '/tags'
+    weight = 20
+
+[module]
+[[module.imports]]
+path = "github.com/hugo-sid/hugo-blog-awesome"

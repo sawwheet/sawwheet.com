@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Sawwheet</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Sawwheet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Apr 2025 08:11:00 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Journal</title>
+      <link>http://localhost:1313/tags/journal/</link>
+      <pubDate>Fri, 18 Apr 2025 08:11:00 -0600</pubDate>
+      
+      <guid>http://localhost:1313/tags/journal/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

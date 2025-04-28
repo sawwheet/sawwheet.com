@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life on Sawwheet</title>
+    <link>http://localhost:1313/tags/life/</link>
+    <description>Recent content in Life on Sawwheet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2025 18:11:00 -0700</lastBuildDate><atom:link href="http://localhost:1313/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025 Goals</title>
+      <link>http://localhost:1313/posts/20250107t181128--2025-goals__philosophy_productivity/</link>
+      <pubDate>Tue, 07 Jan 2025 18:11:00 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/20250107t181128--2025-goals__philosophy_productivity/</guid>
+      
+      <description>&lt;p&gt;Making goals is weird. They are really just an expression of what I want in the moment. There are
+genuine reasons that serve me as to why these goals would change. For example, I go back and forth
+on whether I want to read more, or play more games, or watch basketball. They all are hobbies that I
+want to do at night, but what I want always changes. Regardless, here are my 2025 goals:&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
