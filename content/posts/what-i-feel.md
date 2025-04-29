@@ -2,7 +2,7 @@
 title = "What I Feel"
 author = ["Chris Quinn"]
 date = 2025-04-18T08:11:00-06:00
-tags = ["journal", "poem"]
+tags = ["poem"]
 draft = false
 +++
 
