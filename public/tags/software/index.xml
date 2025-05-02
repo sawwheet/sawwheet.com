@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software on Sawwheet</title>
+    <link>http://localhost:1313/tags/software/</link>
+    <description>Recent content in Software on Sawwheet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 May 2025 08:37:00 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eljira Announcement</title>
+      <link>http://localhost:1313/posts/eljira-announcement/</link>
+      <pubDate>Fri, 02 May 2025 08:37:00 -0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/eljira-announcement/</guid>
+      
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/sawwheet/eljira&#34;&gt;Eljira&lt;/a&gt; is an Emacs interface into Jira.&lt;/p&gt;
+&lt;p&gt;I had three main motiviations in creating this project:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I hate Jira, and none of the existing interfaces fit my needs (mainly custom field related)
+&lt;ol&gt;
+&lt;li&gt;For something so central to my work, it is super inefficient to navigate.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;I wanted to dig my teeth into lisp&lt;/li&gt;
+&lt;li&gt;I want the trolls to tear apart an open source project of mine&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Unfortunately I cannot give too much of a visual demo, becaus the only Jira instance I have access
+to is my employers. Redacting info, or creating a new personal Jira instance is work I don&amp;rsquo;t want to
+do. With that said, here is a general overview of the project:&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

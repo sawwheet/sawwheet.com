@@ -6,25 +6,67 @@
     <description>Recent content on Sawwheet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Apr 2025 16:44:00 -0600</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 May 2025 08:37:00 -0600</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eljira Announcement</title>
+      <link>http://localhost:1313/posts/eljira-announcement/</link>
+      <pubDate>Fri, 02 May 2025 08:37:00 -0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/eljira-announcement/</guid>
+      
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/sawwheet/eljira&#34;&gt;Eljira&lt;/a&gt; is an Emacs interface into Jira.&lt;/p&gt;
+&lt;p&gt;I had three main motiviations in creating this project:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I hate Jira, and none of the existing interfaces fit my needs (mainly custom field related)
+&lt;ol&gt;
+&lt;li&gt;For something so central to my work, it is super inefficient to navigate.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;I wanted to dig my teeth into lisp&lt;/li&gt;
+&lt;li&gt;I want the trolls to tear apart an open source project of mine&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Unfortunately I cannot give too much of a visual demo, becaus the only Jira instance I have access
+to is my employers. Redacting info, or creating a new personal Jira instance is work I don&amp;rsquo;t want to
+do. With that said, here is a general overview of the project:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>In and Out</title>
+      <link>http://localhost:1313/posts/in-and-out/</link>
+      <pubDate>Tue, 29 Apr 2025 13:29:00 -0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/in-and-out/</guid>
+      
+      <description>&lt;p&gt;In represents focus. Attention is directed towards the task at hand; Your mind is at capacity with
+context of the work.&lt;/p&gt;
+&lt;p&gt;Out represents wandering. Taking a step back to observe the whole, and letting consciousness flow.&lt;/p&gt;
+&lt;p&gt;The meeting point of in and out represents moderation; It represents harmony. When you over indulge in
+the out, you become out of touch. You forget that human life, all life, requires work. While lost in
+the out, you risk becoming trapped in the depths of the meaningless void. Too much time spent in,
+and appreciation disappears. Deep within the in are the little things; These little things latch on,
+but they do not matter.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Miss Jane</title>
       <link>http://localhost:1313/posts/miss-jane/</link>
-      <pubDate>Mon, 28 Apr 2025 16:44:00 -0600</pubDate>
+      <pubDate>Mon, 28 Apr 2025 16:38:00 -0600</pubDate>
       
       <guid>http://localhost:1313/posts/miss-jane/</guid>
       
-      <description>&lt;p&gt;I have a question;
-to which there is no answer.
-Perhaps upon reflection,
+      <description>&lt;p&gt;I have a question;&lt;br&gt;
+to which there is no answer.&lt;br&gt;
+Perhaps upon reflection,&lt;br&gt;
 I will find direction.&lt;/p&gt;
-&lt;p&gt;Beyond the door,
-the embrace of clarity.
-The teacher is fair,
+&lt;p&gt;Beyond the door,&lt;br&gt;
+the embrace of clarity.&lt;br&gt;
+The teacher is fair,&lt;br&gt;
 and she will listen.&lt;/p&gt;
-&lt;p&gt;Outside is rain,
-a cloud of shame.
-Back the way I came.
+&lt;p&gt;Outside is rain,&lt;br&gt;
+a cloud of shame.&lt;br&gt;
+I go back the way I came.&lt;br&gt;
 Until next time Miss Jane.&lt;/p&gt;</description>
       
     </item>
