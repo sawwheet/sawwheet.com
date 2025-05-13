@@ -32,9 +32,9 @@ Here is another picture I got from one of the pull offs.
 
 Then I did the Ragnar Relay. There were not any vikings there, it is a decieving name.
 
-What a Ragnar Relay is, is a trail race between teams. Each team is composed of 8 members (unless
+A Ragnar Relay is a trail race between teams. Each team is composed of 8 members (unless
 you are extreme, then you can do 4) and each person has to run 3 loops: 7mi, 4mi (with 700ft
-elevation gain), 4mi (with much less elevation gain). This totals 15-16 mi. Only one person runs on
+elevation gain), 4mi (with much less elevation gain). This totals 15-16 mi. Only one person on
 the team runs at a time, and there are no breaks once you start. That means that everyone ends up
 running in the middle of the night at least once. I ran around 11pm and again at 5:30 am. The night
 run was super cool. I loved the cool breeze, the stars, and the lack of a brutal sun beaming down on
