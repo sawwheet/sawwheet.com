@@ -12,8 +12,8 @@ but you don't know what it is. That is not how I feel. I know exactly
 what I am looking for, and I know exactly where to find it.
 
 The problem with what I am looking for, is that it is on the other
-side of a lake. The lake is slowly expanding and as a result, what I
-seek is becoming further away. I jump into the lake and start
-swimming, but the freezing water only adds to the pain.
+side of a lake. This lake is slowly expanding and as a result, what I
+seek is becoming further away. I jump in and start swimming, but the
+freezing water only adds to the pain.
 
 This lake is my past, and all I can do is stand by while it grows.
