@@ -1,5 +1,5 @@
 +++
-title = "Heartbreak"
+title = "The Path"
 author = ["Chris Quinn"]
 date = 2025-05-15T19:14:00-06:00
 tags = ["poem"]
