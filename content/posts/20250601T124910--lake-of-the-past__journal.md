@@ -2,7 +2,7 @@
 title = "Lake of the Past"
 author = ["Chris Quinn"]
 date = 2025-06-01T12:49:00-06:00
-tags = ["journal", "poem"]
+tags = ["poem"]
 draft = false
 +++
 

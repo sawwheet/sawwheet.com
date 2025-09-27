@@ -8,6 +8,21 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jun 2025 12:49:00 -0600</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      
+      <description>&lt;p&gt;
+My name is Chris and this website is a collection of my work and living documentation of my life.&lt;/p&gt;
+&lt;p&gt;
+I studied software engineering in university, and have worked as a Site Reliability Engineer since
+graduating. However, I have a &lt;a href=&#34;http://localhost:1313/tags/&#34;&gt;wide range of interests&lt;/a&gt; that I intend to explore.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
       <title>Lake of the Past</title>
       <link>http://localhost:1313/posts/20250601t124910--lake-of-the-past__journal/</link>
       <pubDate>Sun, 01 Jun 2025 12:49:00 -0600</pubDate>

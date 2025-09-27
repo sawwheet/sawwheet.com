@@ -4,12 +4,12 @@ title = 'Sawwheet'
 
 [menus]
   [[menus.main]]
-    name = 'Home'
-    pageRef = '/'
+    name = 'About'
+    pageRef = '/about'
     weight = 10
-  [[menus.tags]]
-    name = 'Tags'
-    pageRef = '/tags'
+	[[menus.main]]
+    name = 'Posts'
+    pageRef = '/posts'
     weight = 20
 
 [module]
