@@ -27,12 +27,14 @@
             {{ end }}
             {{ if gt (len $posts) 5 }}
 
+						<div style="padding: 2rem 0;">
 						<h2 class="posts-item-note" aria-label="Tags">Tags</h2>
 						{{ $tags := site.GetPage "/tags" }}
 						{{ range $tags.Pages }}
 						{{ partial "tagSummary" . }}
 						{{ end }}
             {{ end }}
+						</div>
         </main>
     </div>
     {{- partial "footer.html" . -}}
