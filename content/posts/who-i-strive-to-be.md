@@ -1,5 +1,5 @@
 +++
-title = "What I Feel"
+title = "Who I Strive to Be"
 author = ["Chris Quinn"]
 date = 2025-09-30T08:11:00-06:00
 tags = ["journal"]
