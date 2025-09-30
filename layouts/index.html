@@ -28,7 +28,7 @@
             {{ if gt (len $posts) 5 }}
 
 						<div style="padding: 2rem 0;">
-						<h2 class="posts-item-note" aria-label="Tags">Tags</h2>
+						<h2 class="posts-item-note" aria-label="Tags">Posts by Tag</h2>
 						{{ $tags := site.GetPage "/tags" }}
 						{{ range $tags.Pages }}
 						{{ partial "tagSummary" . }}
