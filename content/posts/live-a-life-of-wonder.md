@@ -42,7 +42,7 @@ joy. So my goals should be set around doing these activities. This is the idea I
 express in my journal entry about [Buckets of Experience](./buckets-of-experience.md). Having a
 sense of direction is nice. Having confidence in what you are doing feels good. This also starts to
 lead into the idea Prot is trying to express
-[here][https://protesilaos.com/commentary/2025-10-19-two-sides-commitment/]. If you think through
+[here](https://protesilaos.com/commentary/2025-10-19-two-sides-commitment/). If you think through
 the goals you set, then you have confidence in why you are pursing them and can do it with your full
 mind. The outcome does not matter, because you have the humility to understand that outcomes are
 beyond your control. Nonetheless, you commit to it with a sense of wonder in the every day. You feed
