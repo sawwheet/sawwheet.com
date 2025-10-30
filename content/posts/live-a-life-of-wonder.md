@@ -39,9 +39,10 @@ align with what you really want. Knowing what you really want is not always easy
 just say "happiness". You have to know what fills you with a sense of wonder and joy, and sometimes
 this is not easy to find. Lately, I have been finding bouldering and disc golf to fill me with
 joy. So my goals should be set around doing these activities. This is the idea I was trying to
-express in my journal entry about [Buckets of Experience](./buckets-of-experience.md). Having a
-sense of direction is nice. Having confidence in what you are doing feels good. This also starts to
-lead into the idea Prot is trying to express
+express in my journal entry about [Buckets of
+Experience](https://sawwheet.com/posts/buckets-of-experience/). Having a sense of direction is
+nice. Having confidence in what you are doing feels good. This also starts to lead into the idea
+Prot is trying to express
 [here](https://protesilaos.com/commentary/2025-10-19-two-sides-commitment/). If you think through
 the goals you set, then you have confidence in why you are pursing them and can do it with your full
 mind. The outcome does not matter, because you have the humility to understand that outcomes are
