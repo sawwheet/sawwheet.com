@@ -1,7 +1,7 @@
 +++
 title = "Live a Life of Wonder"
 author = ["Chris Quinn"]
-date = 2025-10-25:36:00-06:00
+date = 2025-10-25T07:36:00-06:00
 tags = ["journal"]
 draft = false
 +++
