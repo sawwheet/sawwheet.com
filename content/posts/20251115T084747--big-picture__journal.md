@@ -8,7 +8,7 @@ draft = false
 
 I recently got back from a trip to Virginia. A trip in which I spent some time with family, and
 indulged in plenty of contemplation. For the majority of my twenties, I could not help but feel a
-sense of shock when I returned from a trip and strolled back in to my routine life. It always felt
+shocked when I returned from a trip and strolled back in to my routine life. It always felt
 so absurd to return to this monotony. Because of this feeling, it was hard for me to not question
 the value of taking these trips. Would it not be better to keep my life rolling smoothly?  This
 never stopped me from taking time off, but I could not help but have these nagging thoughts. I
