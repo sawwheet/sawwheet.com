@@ -18,9 +18,9 @@ I set off on the goal of financial independence in my late teens. I have pursued
 diligently for more than 10 years now. I do not regret this pursuit, as it has taught me a lot about
 commiting to long term goals. However, I think this has also narrowed my mind and perspective in
 unexpected ways. I knew that I wanted freedom. I knew that spending my life working an office job
-seemed ludicrous. I had vague ideas of what I would want to do with this supposed financial freedom,
-but as the years have passed my thoughts have been more concrete, the vagueness has been
-illuminated. I had forgotten the finite reality of my life and fell into complacency.
+seemed ludicrous. I had vague ideas of what I would want to do with financial freedom, but as the
+years passed my thoughts became more concrete, and the vagueness of the ideas were illuminated. I
+had forgotten the finite reality of my life and fell into complacency.
 
 The shock I experienced upon returning to my routines stemmed from a lack of clarity in perceiving
 my life as a cohesive whole. I had my working life, and I had breaks from that. During these breaks
