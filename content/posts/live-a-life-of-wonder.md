@@ -13,14 +13,14 @@ me. It is important for me to remember that I must apply what they say to my lif
 to replicate it exactly. I must keep in mind my wants and needs.
 
 I have been able to maintain a state of gratiude and see with a sense of clarity. I feel like I was
-able to nourish my joy and appreciation for life, while saying no thank you to my suffering. I do
-this by channeling my inner Thich Nhat Hanh. Yes I feel the sadness and confusion of a break up
-arrive throughout the day, but I let it go. It is ok to feel that sadness, and I show compassion
-towards it, but I do not need to feed it. This is easier said than done on many days, but it is
-important to remember that it is possible. This is where faith becomes important. When I am feeling
-stuck, and that life is not worth living, I need to have faith that genuine that joy and optimism is
-possible in any situation. I need to have faith that feeling this joy and wonder makes life worth
-living and that I should fight through whatever battle it is that I am facing.
+able to nourish my joy and appreciation for life, and let go of the difficult emotions and
+dissatisfaction. I find that the good days are not the absence of these difficult emotions, but
+rather the ability to let them pass without any grasping. It is a matter of letting them come with
+acceptance, but not feeding them. This is easier said than done on many days, but it is important to
+remember that it is possible. This is where faith becomes important. When I am feeling stuck, and
+that life is not worth living, I need to have faith that genuine that joy and optimism is possible
+in any situation. I need to have faith that feeling this joy and wonder makes life worth living and
+that I should fight through whatever battle it is that I am facing.
 
 There is beauty to experience in this world as long as there is consciousness. You will never have
 all the answers, but as long as there is a mind, there is a way to build a beautiful
