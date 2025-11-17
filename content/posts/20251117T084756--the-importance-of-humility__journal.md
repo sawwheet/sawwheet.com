@@ -23,7 +23,6 @@ With humility, I find the richest experiences arise from pure amazement in what 
 produces. Everything I experience is just a result of the arising conditions moment to moment. I
 take what I can get with the understanding that nothing is owed to me. There is nuance in each
 moment, I just have to look for it. There are adventures to be had, I just need the courage to
-embark on them. With this disposition, there is nothing better to be experienced than a walk in the
-dark.
+embark on them. With this disposition, there is no better experience than a walk in the dark.
 
 {{< figure src="/ox-hugo/0A840AFA-C684-4BDD-859C-7DBCF051678A_1_105_c.jpeg" >}}
