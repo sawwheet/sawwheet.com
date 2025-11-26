@@ -6,6 +6,6 @@ tags = ["poem"]
 draft = false
 +++
 
-Excitement dwindles.
-Ache dissolves.
-Adventure remains.
+Excitement dwindles.  
+Ache dissolves.  
+Adventure remains.  
