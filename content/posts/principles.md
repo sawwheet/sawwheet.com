@@ -17,7 +17,7 @@ I want to be, and the presence I want to provide to the world.
 ## Embody Peace {#embody-peace}
 
 I intend to move through the world with equanimity and presence, listening with the intent to
-understand and expressing honestly. The moment will have my full attention, without judgment.
+understand, and expressing honestly. The moment will have my full attention, without judgment.
 
 
 ## Invoke Wonder {#invoke-wonder}
