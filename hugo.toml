@@ -5,7 +5,7 @@ title = 'Sawwheet'
 [menus]
   [[menus.main]]
     name = 'About'
-    pageRef = '/about'
+    pageRef = '/posts/principles/'
     weight = 10
 	[[menus.main]]
     name = 'Tags'
