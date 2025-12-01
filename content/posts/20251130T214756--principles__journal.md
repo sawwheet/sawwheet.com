@@ -1,7 +1,7 @@
 +++
 title = "Principles"
 author = ["Chris Quinn"]
-date = 2025-07-07T21:47:00-06:00
+date = 2025-11-30T21:47:00-07:00
 tags = ["journal"]
 draft = false
 +++
