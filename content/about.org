@@ -1,7 +1,0 @@
-#+TITLE: About
-#+WEIGHT: 10
-
-My name is Chris and this website is a collection of my work and living documentation of my life.
-
-I studied software engineering in university, and have worked as a Site Reliability Engineer since
-graduating. However, I have a [[/tags/][wide range of interests]] that I intend to explore.
