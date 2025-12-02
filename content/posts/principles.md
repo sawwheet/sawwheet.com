@@ -26,7 +26,7 @@ I intend to be mindful of the miracle of life. As I explore the cosmos in the pu
 will stay focused on the big picture and maintain a mindset of awe, appreciation, and humility.
 
 
-## Encourage Action {#encourage-action}
+## Encourage Growth {#encourage-growth}
 
 I intend to shape my body and mind through physical and intellectual action. There has been limited
 vitality granted to me, and I will use it to grow by embracing challenge and interacting with the
