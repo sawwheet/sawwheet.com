@@ -8,10 +8,10 @@ draft = false
 
 ## About {#about}
 
-Understanding the art of living is at the heart of my reading and writing pursuits. These
-principles, shaped by my underlying values, illustrate that understanding and I hope to apply them
-daily, regardless of my external circumstances. This living document outlines the core of who I want
-to be, and the presence I want to provide to the world.
+Understanding the art of living is at the heart of my reading, writing, and reflective
+pursuits. These principles, shaped by my underlying values, illustrate that understanding and I hope
+to apply them daily, regardless of my external circumstances. This living document outlines the core
+of who I want to be, and the presence I want to provide to the world.
 
 
 ## Embody Peace {#embody-peace}
