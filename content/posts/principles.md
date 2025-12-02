@@ -31,3 +31,10 @@ will stay focused on the big picture and maintain a mindset of awe, appreciation
 I intend to shape my body and mind through physical and intellectual action. There has been limited
 vitality granted to me, and I will use it to grow by embracing challenge and interacting with the
 world.
+
+
+## Align With Nature {#align-with-nature}
+
+I intend to understand and align with the patterns and systems that govern our universe. By
+embracing my connection to the natural world, I will allow its laws to balance to my life and
+relationships.
