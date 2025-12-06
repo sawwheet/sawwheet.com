@@ -36,4 +36,4 @@ world.
 ## Align With Nature {#align-with-nature}
 
 I intend to understand and align with the patterns and systems that govern our universe. By creating
-structures that mirrors these laws, I allow my life and relationships to flow with them.
+structures that mirror these laws, I allow my life and relationships to flow with them.
