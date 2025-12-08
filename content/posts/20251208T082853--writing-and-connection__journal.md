@@ -8,11 +8,11 @@ draft = false
 
 I have maintained a journal in its current format for nearly three years. Before I worked within the
 structure I have now, I haphazardly wrote in physical notebooks and random text files. There was no
-order to the chaos. Committing to the loose structure I have now and letting it grow organically has
-been deeply fulfilling. I have always known that there is beauty to a consistent approach, but I
-could not tame my monkey mind. Really I just wanted the results without the patience, so I would
-bounce around thinking the next solution would be the right one. This rush I was in was only slowing
-me down. Slowing me down from what though? What are these 'results' I am after? And why does this
+order to the chaos. Committing to a loose structure and letting it grow organically has been deeply
+fulfilling. I have always known that there is beauty to a consistent approach, but I could not tame
+my monkey mind. Really I just wanted the results without the patience, so I would bounce around
+thinking the next solution would be the right one. This rush I was in was only slowing me
+down. Slowing me down from what though? What are these 'results' I am after? And why does this
 website, in which I post some of my journal entries, exist?
 
 An introspective and inquisitve disposition, for better or worse, is one I have maintained for as
