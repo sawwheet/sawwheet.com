@@ -40,7 +40,7 @@ journaling about society and morality? What should he do? Let the drowning of op
 
 Maybe I owe it to humanity to volunteer my time, or work on projects that provide value for
 others. Or mabye I should just find my own happiness and live my own truth, man. Surf's up.  It is
-oscillate between these two perspectives. I cannot help but be in awe of the absolute insignificance
+easy to oscillate between these two perspectives. I cannot help but be in awe of the absolute insignificance
 of my life, and as a result feel content with my meager state of morality. Somedays though, I
 recognize just how fragile and indifferent the universe is to us, and feel not only obligated, but
 inspired to contribute in pushing us forward.
