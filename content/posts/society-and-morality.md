@@ -1,7 +1,7 @@
 +++
 title = "Society and Morality"
 author = ["Chris Quinn"]
-date = 2026-04-09T21:48:00-07:00
+date = 2026-04-08T21:48:00-07:00
 tags = ["journal"]
 draft = false
 +++
