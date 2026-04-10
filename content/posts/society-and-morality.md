@@ -35,7 +35,7 @@ From my perspective, morals are a tool created by humans, not an objective truth
 universe. Granted, I have not taken the leap into Kant's philosophy yet, so there is room for
 convincing. Because of this relativity, there is a lot of ambiguity. I don't think it is too
 controversial to claim that a parent has a moral obligation to raise their child to be a good member
-of society. But what about a single 28 year old male with so much indpendence and time that he is
+of society. But what about a single 28 year old male with so much time that he is
 journaling about society and morality? What should he do? Let the drowning of opinions begin.
 
 Maybe I owe it to humanity to volunteer my time, or work on projects that provide value for
