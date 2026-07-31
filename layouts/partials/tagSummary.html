@@ -1,0 +1,11 @@
+<article class="post-item">
+    <h4 class="post-item-title">
+      <a href="{{ .RelPermalink }}">{{ .Title }}&nbsp;&nbsp;&nbsp;</a>
+			{{ with .GetTerms "tags" }}
+				{{ range . }}
+				<a href="{{ .RelPermalink }}" style="font-size: 13px; color: inherit;"> {{ .LinkTitle }} </a>
+				{{ end }}
+			{{ end }}
+    </h4>
+		{{ .Site.Taxonomies.tags.Count .Title}} posts
+</article>

@@ -1,0 +1,16 @@
+# Hugo build output. CI rebuilds this from scratch on every push to main and
+# publishes it as a GitHub Pages artifact, so it must never be committed.
+/public/
+
+# Hugo's build cache for processed assets (SCSS, images). Regenerated on demand.
+/resources/_gen/
+
+# Lock file Hugo creates while a build or `hugo server` is running.
+.hugo_build.lock
+
+# Local-only notes. This repo is public; personal workflow details (paths,
+# editor config, keybindings) belong here rather than in tracked docs.
+*.local.md
+
+# macOS
+.DS_Store

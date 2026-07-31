@@ -1,0 +1,67 @@
+baseURL = 'https://sawwheet.com/'
+languageCode = 'en-us'
+title = 'Sawwheet'
+
+# The theme is pulled in as a Hugo Module (see [module] below and go.mod).
+# There is no themes/ directory and no `theme =` setting -- that is intentional.
+
+[params]
+  # Only pages in these sections appear on the homepage feed and the main RSS.
+  # Hugo infers this when unset, but relying on the inference means adding a
+  # second content section would silently change what the homepage lists.
+  mainSections = ['posts']
+
+  # ---------------------------------------------------------------------------
+  # TODO: fill these in. Every key below is read by the theme and currently
+  # renders as empty output.
+  #
+  #   description -- <meta name="description"> and og:description on every page.
+  #   sitename    -- og:site_name.
+  #   author.name -- alt text on the avatar. Also the footer copyright, though
+  #                  this site overrides the footer away (see
+  #                  layouts/partials/footer.html).
+  #   author.intro / author.description -- the two lines of the byline block at
+  #                  the top of the homepage. These currently render as an empty
+  #                  <h2> and <p>, which is the blank gap above "Recent Posts".
+  #   author.avatar -- path relative to assets/, e.g. 'images/avatar.jpg'.
+  #                  Requires creating an assets/ directory; leave unset for no
+  #                  avatar.
+  # ---------------------------------------------------------------------------
+  # description = ''
+  # sitename = 'Sawwheet'
+
+  # [params.author]
+  #   name = 'Chris Quinn'
+  #   intro = ''
+  #   description = ''
+  #   avatar = 'images/avatar.jpg'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      # Required by ox-hugo. Its exported figure captions contain literal
+      # <span class="figure-number">Figure N: </span> markup, which Goldmark
+      # strips when unsafe = false (the build warns "Raw HTML omitted while
+      # rendering"). All content here is hand-authored in Org and exported
+      # locally, so there is no untrusted Markdown to guard against.
+      unsafe = true
+
+[menus]
+  [[menus.main]]
+    name = 'About'
+    pageRef = '/posts/principles/'
+    weight = 10
+
+  [[menus.main]]
+    name = 'Tags'
+    pageRef = '/tags'
+    weight = 20
+
+  [[menus.main]]
+    name = 'Posts'
+    pageRef = '/posts'
+    weight = 30
+
+[module]
+  [[module.imports]]
+    path = "github.com/hugo-sid/hugo-blog-awesome"
