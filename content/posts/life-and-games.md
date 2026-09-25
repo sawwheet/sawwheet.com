@@ -9,7 +9,7 @@ draft = false
 My interests as a kid were pretty standard boy interests. I liked video games
 and sports. It was not the specifics of a single game or sport that hooked me,
 but rather the patterns that are fundamental to games. Every game, and every
-sport, are a system in which you can act, receive feedback, and improve
+sport, is a system in which you can act, receive feedback, and improve
 upon. The draw was understanding the system, mastering it, and becoming creative
 within it.
 
